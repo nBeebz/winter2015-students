@@ -27,6 +27,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4B   RPG-Solo-Grinder  Calvin Truong    
 4G   Bromance          Clemens Lo          William Huang                     
 4G   GoonSquad         Andrew Lockhart     Roy Banks       William Chiang      James Lee
+4G   IAM               Manuel Gonzales     Adam Jesse      Ishpreet Rattan
 4G   sounautic         Jason Ji            Wonho Lim
 4O   Chrea             Christofer Klassen  Rhea Lauzon    
 4O   Marvin-Vemple     Calvin Rempel       Marc Vouve     
